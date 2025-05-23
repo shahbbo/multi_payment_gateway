@@ -1,4 +1,4 @@
-# Flutter Multi-Payment Integration
+# Flutter Multi-Payment-gateway Integration
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
